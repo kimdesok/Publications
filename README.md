@@ -1,13 +1,13 @@
 # Publication list
 
-## Medical or bio image analysis related 
+## Medical or Bioimage Analysis related Publication
 
 ### A. Conferences/Domestic Journals (*Corresponding author)
 [1] PJ Yim, D Kim, P Choyke*, The Watershed and Skeletonization of Angiography, Proceedings of SPIE -The International Society for Optical Engineering, May 2003
 
 [2] D Kim* and YI Yeom, Cellular Imaging-based Biological Analysis for Cancer Diagnostics and Drug Target Development, IEEE International Conference on Acoustics, Speech, and Signal Processing(ICASSP '05), pp. v/841-v/844 Vol. 5, 2005
 
-[3] Y Chae and D Kim*, Automatic Marker-Driven Three Dimensional Watershed Transform for Tumor Volume Measurement. 2007. In: Szczuka M.S. et al. (eds) Advances in Hybrid Information Technology (ICHIT 2006), Lecture Notes in Computer Science, vol 4413. Springer, Berlin, Heidelberg [SCIE급].
+[3] Y Chae and D Kim*, Automatic Marker-Driven Three Dimensional Watershed Transform for Tumor Volume Measurement. 2007. In: Szczuka M.S. et al. (eds) Advances in Hybrid Information Technology (ICHIT 2006), Lecture Notes in Computer Science, vol 4413. Springer, Berlin, Heidelberg [SCIE].
 
 [4] Y Chae, M Jeong and D Kim*, Three Dimensional Volume Measurement of Mouse Abdominal Fat in Magnetic Resonance Images, 2007 9th International Conference on e-Health Networking, Application and Services, pp. 252-255, 2007
 
@@ -21,9 +21,9 @@
 
 [9] T Lee, H Jeong, D Kim*, and B Lee, "Quantitative Analysis of Endodontic Treatment for Periapical Lesions in Intraoral Radiographs," Ninth IEEE International Conference on Bioinformatics and Bioengineering, Taichung, Taiwan, June 2009
 
-[10] 최동훈, 이완, 김대석, 이병도, Cone Beam CT를 이용한 비글견 발치창 치유과정에 대한 방사선학적 연구, IMAGING SCIENCE IN DENTISTRY, v.39, no.1, pp.19 - 25, 대한구강악안면방사선학회, 2009
+[10] JH Kim, W Lee, KS Kim, YC Ro, D Kim, BD Lee*, Quantitative analysis of periapical lesions on cone beam computed tomograph and periapical radiograph, Imaging Science in Dentistry, vol.39, no.1, pp. 41-49, 2009
 
-[11] 김진화, 이완, 김경수, 노영채, 김대석, 이병도, Cone beam형 전산화단층영상과 치근단방사선영상의 치근단 병소에 대한 정량적인 분석, 대한구강악안면방사선학회, v.39, no.1, pp.41 - 49, 2009
+[11] DH Choi, W Lee, D Kim, BD Lee*, Radiologic study of the healing process of the extracted socket of beagle dogs using cone beam CT, Imaging Science in Dentistry v.39, no.1, pp.19 - 25, 2009 (in Korean).
 
 [12] D Kim*, H Jeong, M Kim, C Kim, BD Lee, Multiscale Image Analysis for the Quantitative Evaluation of Periapical Lesion Healings, IEEE/BMEI 3rd International Conference on BioMedical Engineering and Informatics, 2010
 
@@ -35,7 +35,7 @@
 
 [16] AK Mishra, Desok Kim*, I Andayana, Development of Three Dimensional Binary Patterns for Local Bone Structure Analysis, 2011 IEEE International Conference on Bioinformatics and Biomedicine Workshops (BIBMW), November 2011
 
-### B. Basic science journals (SCI) 
+### B. Basic Science Journals (SCI) 
 
 [17] D Kim, JD Charlton, J Coggins, JL Mohler*, Semi-automated Nuclear Shape Analysis of Prostatic Carcinoma and Benign Prostatic Hyperplasia, Analytical and Quantitative Cytology and Histology / the International Academy of Cytology, American Society of Cytology, January 1995
 
@@ -55,15 +55,15 @@
 
 [25] S Singh, D Kim, JL Mohler, Java Web Start based Software for Automated Quantitative Nuclear Analysis of Prostate Cancer and Benign Prostate Hyperplasia, Biomedical Engineering Online, 2005
 
-## Digital healthcare related
+## Digital Healthcare related Publication
 
 ### A. Patents
 
-[26] Chulho Cho, Desok Kim, Jaegeol Cho, Suntae Jung, Salahuddin Lizawati, "Method for analyzing stress based on multi-measured bio-signals" (Samsung/KAIST), 미국특허청 등록번호 US8696566 B2. 2014.
+[26] Chulho Cho, Desok Kim, Jaegeol Cho, Suntae Jung, Salahuddin Lizawati, "Method for analyzing stress based on multi-measured bio-signals", US Patent office Publication No US8696566 B2. 2014.
 
-[27] 조철호, 김대석, 조재걸, 정선태, 살라후딘 리자와티, 다중 측정된 생체신호를 기반으로한 스트레스 분석방법, 대한민국특허청 등록번호 10-1435680-0000. 2014.
+[27] Chulho Cho, Desok Kim, Jaegeol Cho, Suntae Jung, Salahuddin Lizawati, “Method for analyzing stress based on biometric signal measured multiple”, Republic of Korea Patent Office Publication No. KR101435680B1. 2014
 
-[28] 김대석, 이현우, 신대철, 스트레스 분석 시스템 및 그의 동작 방법, 대한민국특허청 등록번호 10-2189944-0000. 2020.
+[28] Desok Kim, Hyunwoo Lee, Daechul Shin, “System of mental stress analysis and operating method”, Republic of Korea Patent Office Publication No. KR102189944B1, 2020
 
 ### B. Conferences / Book chapter (*Corresponding author)
 
